@@ -1,0 +1,1 @@
+Just copy 'utube' folder in wp-content/plugins!
